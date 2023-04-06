@@ -1,0 +1,192 @@
+*{
+    margin: 10;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+ul {
+        position: -webkit-sticky; /* Safari */
+        position: sticky;
+        top: 0;
+      
+      
+  }
+        ul {
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    overflow: hidden;
+    background-color: white;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #F47F19;
+  }
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+     }
+
+     .centered {
+        position: absolute;
+        top: 50%;
+        left:50% ;
+        transform: translate(-50%, -50%);
+        
+        font-family: sans-serif;
+        color: aliceblue;
+        text-align: center;
+    
+
+    }
+
+  
+  
+  .button {
+    background-color:#F47F19 ; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+
+  }
+  .text2{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px
+
+  }
+  .LOREM{
+    font-size: 100;
+    color: black;
+  }
+
+
+  .text3 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    display: flex; 
+    vertical-align: text-bottom;
+  }
+  .h1{
+    font-size: 40px;
+  }
+.text4{
+    color: black;
+    font-family: sans-serif;
+    font-size: 25px;
+    
+}
+
+
+.image{
+  float: right;
+}
+.text{
+  text-align: left;
+  color: black;
+  font-size: 100%;
+}
+  .text5{
+    color: black;
+    font-family: sans-serif;
+    font-size: 25px;
+  }
+  .pera{
+    color: black;
+    font-size: 100;
+  }
+  .star{
+    color: black;
+    display: flex;
+    
+  }
+.text6{
+  color: black;
+  font-family: serif;
+  
+
+}
+.f5{
+  display: flex;
+  text-align: center;
+}
+.para{
+  color: black;
+  font-size: 100;
+}
+.text7{
+  color: black;
+  font-size: 25px;
+}
+.our{
+  color: black;
+}
+.row{
+  color: black;
+}
+.column{
+  color: black;
+} .column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.text8{
+  color: black;
+  font-size: 25px;
+}
+.lo{
+  color: black;
+  font-size: 100;
+}
+.text9{
+  color: black;
+  font-size: 25px;
+}
+.chee{
+  color: black;
+  
+}
+.text10{
+  color: white;
+  background-color: green;
+}
+button {
+  background-color:#F47F19 ;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  
+}
+.text11{
+  color: black;
+  font-size: 20px;
+}
+.sit{
+  color: black;
+}
